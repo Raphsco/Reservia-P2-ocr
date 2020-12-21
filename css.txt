@@ -1,0 +1,18 @@
+<div class="onglet_popu d-flex">
+                        <div class="container_img_popu">
+                            <img class="img_popu img_aucodel" src="images/hebergements/4_small/aw-creative-VGs8z60yT2c-unsplash.jpg" alt="Hotel le soleil du matin">
+                           </div>
+                               <div class="titre_parag_stars_container">
+                                <h5 class="title_popu">Au coeur de l'eau <br> chambre d'hôtes</h5>
+                                
+                                <p class="text_popu aucoeurdeleau_texte">Nuit à partir de <em><b>71€</b></em></p>
+                              
+                                <div class="stars_popuv2">
+                                    <i class="fas fa-star fa-sm hostingMainCardGradeIcon" data-active="true" aria-hidden="true"></i>
+                                    <i class="fas fa-star fa-sm hostingMainCardGradeIcon" data-active="true" aria-hidden="true"></i>
+                                    <i class="fas fa-star fa-sm hostingMainCardGradeIcon" data-active="true" aria-hidden="true"></i>
+                                    <i class="fas fa-star fa-sm hostingMainCardGradeIcon" data-active="true" aria-hidden="true"></i>
+                                    <i class="fas fa-star fa-sm hostingMainCardGradeIcon" data-active="true" aria-hidden="true"></i>
+                                    <i class="fas fa-star fa-sm hostingMainCardGradeIcon" data-active="false" aria-hidden="true"></i>
+                                </div>
+                               </div>
